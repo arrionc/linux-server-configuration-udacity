@@ -1,4 +1,4 @@
-# Linux Server Configuration'
+# Linux Server Configuration
 
 This project is part of Udacity's [Full Stack Web Developer Nano Degree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). The project takes a baseline installation of a Linux server to host your web applications while securing, installing and configuring a database server.
 
