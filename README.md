@@ -166,7 +166,7 @@ pip3 instal sqlalchemy
 pip3 install --upgrade oauth2client
 pip3 install httplib2
 pip3 install requests
-sudo apt-get install libpq-ved
+sudo apt-get install libpq-dev
 pip3 install psycopg2
 ``` 
 - Deactivate virtual environment type `deactivate` in the terminal.
