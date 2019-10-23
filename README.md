@@ -46,6 +46,7 @@ sudo ufw allow 2200/tcp # Allow incoming tcp packets on port 2200.
 sudo ufw allow www      # Allow HTTP traffic in.
 sudo ufw allow 123/udp  # Allow incoming udp packets on port 123.
 sudo ufw deny 22        # Deny incoming requests on port 22 sudo ufw enable         #Turn on UFW
+sudo ufw enable         # Enables all the changes made
 sudo ufw status         #UFW is now active and should list all the allowed ports  
 ```
 - Exit the SSH connection, type `exit`
